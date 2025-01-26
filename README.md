@@ -1,2 +1,4 @@
 # Chronic-Kidney-Disease-Prediction
-This is a Machine Learning Project where Chronic Kidney Disease Prediction is done on several training examples and tested to get an accuracy of 97.5
+Chronic Kidney Disease(CKD) is kidney malfunction and progressive damage of the kidney.This research mainly focuses on predicting the presence of Chronic Kidney Disease using Machine learning and Quantum computing especially for obtaining accurate predictions for early treatment.
+
+This model achieved the highest accuracy of 99.1%
